@@ -14,8 +14,7 @@ public class Bootstrap {
     /**
      * 公众号AppID
      */
-    public static final String APP_ID = "wxf709fe522a9ac1e0
-";
+    public static final String APP_ID = "wxf709fe522a9ac1e0";
 
     /**
      * 公众号秘钥
