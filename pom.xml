@@ -23,6 +23,7 @@
         <wxjava-version>4.3.0</wxjava-version>
         <lombok.version>1.18.22</lombok.version>
         <hutool.version>5.7.22</hutool.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
